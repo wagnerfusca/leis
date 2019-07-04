@@ -8,6 +8,7 @@ Conheça mais as leis mapeadas por diversos autores. Elas poderão te ajudar no 
 - (Miller’s Law) Three points determine a curve.
 - (Varsi's Law) Schedules only move in one direction.
 - (Edison’s Law) “Better” is the enemy of “good”.
+- Sindrome do Estudante - fenômeno que muitos estudantes só vão começar a se dedicar inteiramente a uma tarefa logo antes do prazo final
 
 # Leis da Informática
 - (Shea's Law) The ability to improve a design occurs primarily at the interfaces. This is also the prime location for screwing it up.
@@ -18,8 +19,9 @@ humphrey law
 
 # Leis de processo, tempo, gestão
 - Lei de Brooks - Adicionar pessoas a um projeto de software atrasado resulta em um atraso ainda maior.
-- Lei de Parkinson - O trabalho se expande de modo a preencher o tempo disponível para a sua realização
 - Lei de Little - em um sistema estável, a quantidade média de tempo que algo leva para atravessar um processo é igual ao número de coisas no processo dividido por sua taxa de conclusão média
+- Lei de Parkinson - O trabalho se expande de modo a preencher o tempo disponível para a sua realização
+- Lei de Hofstadter - É sempre necessário mais tempo que o previsto, mesmo quando se leva em conta a lei de Hofstadter.
 - (Lei de Larrabee) Metade de tudo que você ouve em uma sala de aula é uma porcaria. A educação é descobrir qual metade é qual.
 - (Lei de Bowden) Após uma falha nos testes, é sempre possível refinar a análise para mostrar que você realmente teve margens negativas o tempo todo.
 - (von Tiesenhausen's Law of Program Management) To get an accurate estimate of final program requirements, multiply the initial time estimates by pi, and slide the decimal point on the cost estimates one place to the right.
@@ -29,6 +31,8 @@ humphrey law
 - (Roosevelt's Law of Task Planning) Do what you can, where you are, with what you have.
 - (Henshaw's Law) One key to success in a mission is establishing clear lines of blame.
 - (McBryan's Law) You can't make it better until you make it work.
+- Principio de Peter - Num sistema hierárquico, todo funcionário tende a ser promovido até ao seu nível de incompetência
+
 
 # Outras leis
 - Akin´s Laws of Spacecrafts Design (https://spacecraft.ssl.umd.edu/akins_laws.html) 
