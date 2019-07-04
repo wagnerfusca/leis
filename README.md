@@ -1,6 +1,6 @@
 ## As Leis que vão te ajudar no dia a dia 
 
-Conheça mais as leis mapeadas por diversos autores. Elas poderão te ajudar no dia a dia (nem que seja para parecer mais inteligente numa reunião :D )
+Conheça mais as leis mapeadas por diversos autores. Elas poderão te ajudar no dia a dia, nem que seja para parecer mais inteligente numa reunião :D 
 
 ![Einsten](einsten.jpg)
 
