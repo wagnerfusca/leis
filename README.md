@@ -53,4 +53,4 @@ humphrey law
 - Lei de postel - Seja conservador no que você faz, seja liberal no que você aceita dos outros
 - Law of Argumentative Comprehension - The more people understand something, the more willing they are to argue about it, and the more vigorously they will do so."
 
-Este trabalho está licenciado com uma Licença [Creative Commons - Atribuição-NãoComercial 4.0 Internacional](http://creativecommons.org/licenses/by-nc/4.0/)(cc.png)
+Este trabalho está licenciado com uma Licença [Creative Commons - Atribuição-NãoComercial 4.0 Internacional](http://creativecommons.org/licenses/by-nc/4.0/) - ![Logo_Licenca](cc.png)
