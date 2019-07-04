@@ -2,7 +2,7 @@
 
 Conheça mais as leis mapeadas por diversos autores. Elas poderão te ajudar no dia a dia (nem que seja para parecer mais inteligente numa reunião :D )
 
-Einstein
+![Einsten](einsten.jpg)
 
 # Leis naturais
 - Lei da semeadura - o que você planta, você colherá
