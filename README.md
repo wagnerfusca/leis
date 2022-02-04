@@ -22,7 +22,7 @@ humphrey law
 - Lei de Conway - Organizações que desenvolvem sistemas de software tendem a produzir sistemas que são cópia das estruturas de comunicação dessas organizações.
 - Lei de Linus - Dados olhos suficientes, todos os erros são óbvios
 - Lei de Eagleson - "Qualquer código seu que você não tenha olhado por seis ou mais meses poderia muito bem ter sido escrito por outra pessoa."
-- Regra 90-90 - "Os primeiros 90% do código são responsáveis pelos primeiros 90% do tempo de desenvolvimento. Os restantes 10% do código são responsáveis pelos outros 90% do tempo de desenvolvimento."
+- Regra 90-90 - "Os primeiros 90% do código são responsáveis pelos primeiros 10% do tempo de desenvolvimento. Os restantes 10% do código são responsáveis pelos outros 90% do tempo de desenvolvimento."
 
 # Leis de processo, tempo, gestão
 - Lei de Brooks - Adicionar pessoas a um projeto de software atrasado resulta em um atraso ainda maior.
